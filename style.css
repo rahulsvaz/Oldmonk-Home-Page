@@ -1,0 +1,75 @@
+*{margin: 0px;}
+.main
+{
+    display: flex;
+    background-image: url("background-1.png");
+    height:320px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.logo img
+{
+    margin-left: 216px;
+    width: 127px;
+    height: 160px;
+    cursor: pointer;
+
+}
+ul
+{ 
+    display: flex;
+    list-style:none;
+    margin-top: 33px;
+    margin-left: 150px;
+    
+}
+li
+{
+    color: aliceblue;
+    margin-left: 16px;
+    cursor: pointer;
+    font-size: 12px;
+    font-family: droid serif;
+    font-style: bold;
+
+}
+.head
+{
+    font-size: 25px;
+    color: white;
+    margin-top: -130px;
+    margin-left: 160px;
+}
+.text
+{
+    font-size: 12px;
+    margin-top: 115px;
+    margin-left: 180px;
+}
+.glass-image img{
+    margin-top: 118px;
+    margin-left: 80px;
+    width: 127px;
+    height: 180px;
+
+}
+footer{
+    margin-top: 60px;
+    width: 100%;
+    height: 110px;
+    background-color: black;
+}
+.foot-text{
+    text-align: center;
+    color: rgb(249, 250, 251);
+    font-size: 12px;
+    margin-top: -70px;
+}
+span
+{
+    cursor: pointer;
+}
+h6{
+    margin-top: 15px;
+}
